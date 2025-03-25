@@ -1,3 +1,9 @@
+name: bug report
+about: crea un reporte de error para ayudarnos a mejorar
+title: "[BUG] descripcion breve"
+labels: bug
+assignees: ''
+
 Título: Problema con [Nombre del Flujo de Trabajo/Acción/Configuración] en .github
 
 Descripción:
